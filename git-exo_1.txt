@@ -1,1 +1,5 @@
-Fichier 1
+EXO : 1
+
+2.Le répertoire ./git a été créé dans TP1
+5. Il est prêt pour un commit
+7.
