@@ -2,4 +2,7 @@ EXO : 1
 
 2.Le répertoire ./git a été créé dans TP1
 5. Il est prêt pour un commit
-7.
+7. J'ai cette réponse: On branch master
+nothing to commit, working tree clean
+8. Log -p affiche les modifications que j'ai apporté au fichier et les différents commits que j'ai fais
+9. git -diff permet de d'afficher les différences entre mes commits
