@@ -6,3 +6,4 @@ EXO : 1
 nothing to commit, working tree clean
 8. Log -p affiche les modifications que j'ai apporté au fichier et les différents commits que j'ai fais
 9. git -diff permet de d'afficher les différences entre mes commits
+11. Je vois  fichier git-exo_1.txt 
